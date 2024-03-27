@@ -4,6 +4,8 @@
 0.0.0.0 yodayo.com
 0.0.0.0 tavernai.pro
 0.0.0.0 sillytavernai.com
+0.0.0.0 character.ai
+0.0.0.0 old.character.ai
 
 #============ Windows =============
 
