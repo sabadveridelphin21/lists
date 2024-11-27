@@ -6,16 +6,24 @@
 0.0.0.0 sillytavernai.com
 0.0.0.0 character.ai
 0.0.0.0 old.character.ai
+0.0.0.0 spicychat.ai
+0.0.0.0 janitor.ai
+0.0.0.0 polyai.ai
+0.0.0.0 sakura.fm
+0.0.0.0 talkie-ai.com
+
 
 #============ Windows =============
 
-#127.0.0.1 data.microsoft.com
-#127.0.0.1 msftconnecttest.com
-#127.0.0.1 azureedge.net
-#127.0.0.1 activity.windows.com
-#127.0.0.1 bingapis.com
-#127.0.0.1 msedge.net
-#127.0.0.1 assets.msn.com
-#127.0.0.1 scorecardresearch.com
-#127.0.0.1 edge.microsoft.com
-#127.0.0.1 data.msn.com
+127.0.0.1 data.microsoft.com
+127.0.0.1 msftconnecttest.com
+127.0.0.1 azureedge.net
+127.0.0.1 activity.windows.com
+127.0.0.1 bingapis.com
+127.0.0.1 msedge.net
+127.0.0.1 assets.msn.com
+127.0.0.1 scorecardresearch.com
+127.0.0.1 edge.microsoft.com
+127.0.0.1 data.msn.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 ocsp.digicert.com
